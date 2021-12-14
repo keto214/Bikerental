@@ -1,4 +1,4 @@
-﻿Free Download Source Code "Online Bike Rental Management System"
+
 
 FIRST Download
 
@@ -37,5 +37,3 @@ USERNAME : admin
 
 PASSWORD : Test@12345
 
-****** https://www.campcodes.com/ ******
-Subcribe to our Youtube Channel **** SerBermz ****
